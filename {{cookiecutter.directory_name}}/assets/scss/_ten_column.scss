@@ -1,0 +1,75 @@
+/**
+ * Ten Column Layout
+ */
+.col-10-of-10 {
+    width: 100%;
+}
+
+.col-9-of-10 {
+    width: 89.84%;
+}
+
+.col-8-of-10 {
+    width: 79.68%;
+}
+
+.col-7-of-10 {
+    width: 69.52%;
+}
+
+.col-6-of-10 {
+    width: 59.36%;
+}
+
+.col-5-of-10 {
+    width: 49.2%;
+}
+
+.col-4-of-10 {
+    width: 39.04%;
+}
+
+.col-3-of-10 {
+    width: 28.88%;
+}
+
+.col-2-of-10 {
+    width: 18.72%;
+}
+
+.col-1-of-10 {
+    width: 8.56%;
+}
+
+@media only screen and (max-width: 480px) {
+    .col-10-of-10 {
+        width: 100%;
+    }
+    .col-9-of-10 {
+        width: 100%;
+    }
+    .col-8-of-10 {
+        width: 100%;
+    }
+    .col-7-of-10 {
+        width: 100%;
+    }
+    .col-6-of-10 {
+        width: 100%;
+    }
+    .col-5-of-10 {
+        width: 100%;
+    }
+    .col-4-of-10 {
+        width: 100%;
+    }
+    .col-3-of-10 {
+        width: 100%;
+    }
+    .col-2-of-10 {
+        width: 100%;
+    }
+    .col-1-of-10 {
+        width: 100%;
+    }
+}

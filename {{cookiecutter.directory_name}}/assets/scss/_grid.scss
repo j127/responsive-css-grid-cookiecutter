@@ -1,0 +1,26 @@
+// The base styles for all grids
+.row {
+    clear: both;
+    margin: 0;
+    padding: 0;
+}
+
+.column {
+    display: block;
+    float: left;
+    margin: 1% 0 1% 1.5%;
+}
+
+.column:first-child {
+    margin-left: 0;
+}
+
+.group:before,
+.group:after {
+    content: "";
+    display: table;
+}
+
+.group:after {
+    clear: both;
+}

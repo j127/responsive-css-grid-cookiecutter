@@ -1,0 +1,16 @@
+{
+  "name": "@{{cookiecutter.github_username}}/{{cookiecutter.project_name}}",
+  "version": "0.1.0",
+  "description": "{{cookiecutter.project_description}}",
+  "scripts": {
+    "dev": "echo 'todo'"
+  },
+  "author": "{{cookiecutter.real_name}} <{{cookiecutter.email_address}}> (https://github.com/{{cookiecutter.github_username}})",
+  "devDependencies": {
+    "babel-preset-env": "^1.6.0",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-sass": "^3.1.0",
+    "node-sass": "^4.5.3"
+  }
+}

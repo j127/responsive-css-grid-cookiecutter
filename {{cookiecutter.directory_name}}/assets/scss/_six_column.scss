@@ -1,0 +1,47 @@
+/**
+ * Six Column Layout
+ */
+.col-6-of-6 {
+    width: 100%;
+}
+
+.col-5-of-6 {
+    width: 83.06%;
+}
+
+.col-4-of-6 {
+    width: 66.13%;
+}
+
+.col-3-of-6 {
+    width: 49.2%;
+}
+
+.col-2-of-6 {
+    width: 32.26%;
+}
+
+.col-1-of-6 {
+    width: 15.33%;
+}
+
+@media only screen and (max-width: 480px) {
+    .col-6-of-6 {
+        width: 100%;
+    }
+    .col-5-of-6 {
+        width: 100%;
+    }
+    .col-4-of-6 {
+        width: 100%;
+    }
+    .col-3-of-6 {
+        width: 100%;
+    }
+    .col-2-of-6 {
+        width: 100%;
+    }
+    .col-1-of-6 {
+        width: 100%;
+    }
+}

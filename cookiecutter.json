@@ -1,4 +1,7 @@
 {
     "directory_name": "webapp",
-    "project_name": "Web App"
+    "project_name": "Web App",
+    "project_description": "A web project.",
+    "real_name": "Josh",
+    "email_address": "hostelmarketing@gmail.com"
 }

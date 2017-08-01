@@ -1,0 +1,68 @@
+/**
+ * Nine Column Layout
+ */
+.col-9-of-9 {
+    width: 100%;
+}
+
+.col-8-of-9 {
+    width: 88.71%;
+}
+
+.col-7-of-9 {
+    width: 77.42%;
+}
+
+.col-6-of-9 {
+    width: 66.13%;
+}
+
+.col-5-of-9 {
+    width: 54.84%;
+}
+
+.col-4-of-9 {
+    width: 43.55%;
+}
+
+.col-3-of-9 {
+    width: 32.26%;
+}
+
+.col-2-of-9 {
+    width: 20.97%;
+}
+
+.col-1-of-9 {
+    width: 9.68%;
+}
+
+@media only screen and (max-width: 480px) {
+    .col-9-of-9 {
+        width: 100%;
+    }
+    .col-8-of-9 {
+        width: 100%;
+    }
+    .col-7-of-9 {
+        width: 100%;
+    }
+    .col-6-of-9 {
+        width: 100%;
+    }
+    .col-5-of-9 {
+        width: 100%;
+    }
+    .col-4-of-9 {
+        width: 100%;
+    }
+    .col-3-of-9 {
+        width: 100%;
+    }
+    .col-2-of-9 {
+        width: 100%;
+    }
+    .col-1-of-9 {
+        width: 100%;
+    }
+}
