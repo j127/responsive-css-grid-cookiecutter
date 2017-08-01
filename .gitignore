@@ -1,0 +1,15 @@
+# Editors
+*~
+*.sw[op]
+.idea/
+*.sublime-*
+
+# Python
+*.py[cod]
+__pycache__/
+
+# Node
+node_modules/
+
+# Sass
+.sass-cache/
