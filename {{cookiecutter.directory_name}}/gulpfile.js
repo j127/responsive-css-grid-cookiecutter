@@ -9,13 +9,13 @@ gulp.task('sass', function () {
             .pipe(sass({
                 outputStyle: 'compressed'
             }).on('error', sass.logError))
-            .pipe(gulp.dest('build/static/css/main.css'));
+            .pipe(gulp.dest('build/css'));
 });
 
 gulp.task('babel', function () {
     return gulp.src('assets/js/main.js')
             .pipe(babel())
-            .pipe(gulp.dest('build/js/main.js'))
+            .pipe(gulp.dest('build/js'))
 });
 
 gulp.task('default', ['sass', 'babel']);

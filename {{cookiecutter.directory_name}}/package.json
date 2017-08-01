@@ -1,5 +1,5 @@
 {
-  "name": "@{{cookiecutter.github_username}}/{{cookiecutter.project_name}}",
+  "name": "@{{cookiecutter.github_username}}/{{cookiecutter.directory_name}}",
   "version": "0.1.0",
   "description": "{{cookiecutter.project_description}}",
   "scripts": {
